@@ -8,6 +8,10 @@ Here are my plugins for PluXml[1] blog.
   is a plugin for slimbox2[3]. Need the pluxml jquery plugin
   an example here: http://blog.naturalevent.fr/article17/plugin-slimbox2
 
+* ganalytics
+  is a simple google analytics plugin.
+  edit ganalytics.php and replace XX-YYYYYYYY-Z with your site ID.
+
 [1] www.pluxml.org
 [2] www.clustrmaps.com
 [3] http://www.digitalia.be/software/slimbox2
